@@ -1,11 +1,13 @@
-# Tá na Hora - Conserto de Lonas Santa Maria RS
+# Tá na Hora - Conserto de Capotas e Lonas Santa Maria RS
 
-Site oficial da Tá na Hora, especialista em conserto de lonas para caminhões sider, lona fácil, reboques e barcos em Santa Maria, RS.
+Site oficial da Tá na Hora, especialista em conserto de capotas e lonas para caminhões sider, lona fácil, reboques e barcos em Santa Maria, RS.
 
 ## Serviços
+- Conserto de capotas para caminhões
 - Conserto de lonas para caminhões sider
 - Reparo de lona fácil
 - Lonas para reboques e embarcações
+- Reparo de capotas náuticas
 - Atendimento 24 horas
 - Orçamento gratuito
 
